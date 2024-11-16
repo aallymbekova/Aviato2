@@ -11,7 +11,7 @@ import SwiftUI
 struct Aviator2App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SplashScreenView()
         }
     }
 }
